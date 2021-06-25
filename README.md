@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **minhtrung4367@gmail.com**
 
-## Connect with me 👀
+## Connect With Me 👀
 <!--<p align="left">
 <a href="https://www.instagram.com/dh.baotrung/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d.h.baotrung" height="30" width="40" /></a>
 <a href="https://twitter.com/M_Aylmer10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="M_Aylmer10" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
 </p>
 
-##Design with Adobe 🎆🎇🎇🎆
+## Design with Adobe 🎆🎇🎇🎆
 <p align="left"> 
 <a href="https://www.adobe.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobe.svg" alt="Adobe" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" alt="Adobe-Photoshop" width="50" height="50"/> </a>
