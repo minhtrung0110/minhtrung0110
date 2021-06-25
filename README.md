@@ -31,11 +31,17 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>  
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="54" height="54"/> </a>  
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
+</p>
 
 ##Design with Adobe 🎆🎇🎇🎆
+<p align="left"> 
 <a href="https://www.adobe.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobe.svg" alt="Adobe" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" alt="Adobe-Photoshop" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" alt="Adobe-Illustrator" width="50" height="50"/> </a>
-<a href="https://www.adobe.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobe.svg" alt="Adobe" width="50" height="50"/> </a>
-<a href="https://www.adobe.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobe.svg" alt="Adobe" width="50" height="50"/> </a>
+<a href="https://www.adobe.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg" alt="Adobe-Premierepro" width="50" height="50"/> </a>
+<a href="https://www.adobe.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobelightroomclassic.svg" alt="Adobe-Lightroom-Classic" width="50" height="50"/> </a>
+<a href="https://www.adobe.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg" alt="Adobe-After-Effects" width="50" height="50"/> </a>
+<a href="https://www.adobe.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeindesign.svg" alt="Adobe-Indesign" width="50" height="50"/> </a>
+
+</p>
 
