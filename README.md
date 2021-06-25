@@ -1,14 +1,13 @@
 # Hi 👋, I'm Minh Trung
 ### I am a developer from VietNam
 
-![view counter](https://komarev.com/ghpvc/?username=hoangtran0410&label=Profile%20views&color=0e75b6&style=flat-square)
-![](https://hit.yhype.me/github/profile?user_id=36368107)
+
 
 - 🔭 I’m currently studying in SGU University.
 
 - 📫 How to reach me **minhtrung4367@gmail.com**
 
-## Connect with me 👀
+## Connect with me🙌😍🙌🎉🎉🎉
 <!--<p align="left">
 <a href="https://www.instagram.com/dh.baotrung/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d.h.baotrung" height="30" width="40" /></a>
 <a href="https://twitter.com/M_Aylmer10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="M_Aylmer10" height="30" width="40" /></a>
