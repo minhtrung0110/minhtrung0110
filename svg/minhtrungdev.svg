@@ -80,8 +80,9 @@
         <div class="earth"></div>
 				<div class="greeting">
           Hi Aliens!<br/>I'm Minh Trung ❤❤❤
-          <br/>
-          I am a developer from VietNam
+        </div>
+        <div class="greeting">
+        I am a developer from VietNam
         </div>
         <div class="skills">
           <div class="skills_icon">
