@@ -1,8 +1,8 @@
 # Hi 👋, I'm Minh Trung ❤❤❤
 ### I am a developer from VietNam
-<!-- Trungquandev -->
+<!-- minhtrungdev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/minhtrungdev.svg" width="1200" alt="minhtrungdev-official" />
 </a>
 
 
