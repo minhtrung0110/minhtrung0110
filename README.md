@@ -4,8 +4,6 @@
   <img src="svg/minhtrungdev.svg" width="1200" alt="minhtrungdev-official" />
 </a>
 
-- 🔭 I’m currently studying in SGU University.
-
 - 📫 How to reach me **minhtrung4367@gmail.com**
 
 ## Connect With Me 🙌🎫🙌
