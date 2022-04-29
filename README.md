@@ -30,7 +30,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>  
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="54" height="54"/> </a>  
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
-  <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/Laravel-282525?logo=laravel&logoColor=F9322C" alt="php" width="70" height="40"/> </a> 
+  <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/Laravel-282525?logo=laravel&logoColor=F9322C" alt="php" width="80" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
