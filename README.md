@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **minhtrung4367@gmail.com**
 
-## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></a>
 <!--<p align="left">
 <a href="https://www.instagram.com/dh.baotrung/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d.h.baotrung" height="30" width="40" /></a>
 <a href="https://twitter.com/M_Aylmer10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="M_Aylmer10" height="30" width="40" /></a>
