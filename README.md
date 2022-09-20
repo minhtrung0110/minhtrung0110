@@ -4,11 +4,9 @@
   <img src="svg/minhtrungdev.svg" width="1200" alt="minhtrungdev-official" />
 </a>
 
-- 🔭 I’m currently studying in SGU University.
-
 - 📫 How to reach me **minhtrung4367@gmail.com**
 
-## Connect With Me 🙌🎫🙌
+## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></a>
 <!--<p align="left">
 <a href="https://www.instagram.com/dh.baotrung/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d.h.baotrung" height="30" width="40" /></a>
 <a href="https://twitter.com/M_Aylmer10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="M_Aylmer10" height="30" width="40" /></a>
@@ -30,10 +28,13 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>  
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="54" height="54"/> </a>  
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="54" height="54"/> </a>
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
 <a href="https://eslint.org/" target="_blank"> <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="php" width="89" height="42"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" width="98" height="42"/> </a> 
+  <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/Laravel-282525?logo=laravel&logoColor=F9322C" alt="php" width="90" height="42"/> </a> 
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="55" height="42"/> </a>
+
 </p>
 
 
