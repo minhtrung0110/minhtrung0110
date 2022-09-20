@@ -50,12 +50,12 @@
 
 </p>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h1 align="center">🔥 GitHub Stats 🔥</h1>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="Github stats">
-    <img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=minhtrung0110&show_icons=true&theme=dracula" />
+    <img width="420" align="left" src="https://github-readme-stats.vercel.app/api?username=minhtrung0110&show_icons=true&theme=dracula" />
   </a>
   <a href="#" title="Most Used Languages">
     <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtrung0110&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb" />
@@ -64,7 +64,8 @@
 <br/><br />
 <br/><br />
 <br /><br />
-<h2 align="center">🔥 GitHub Summary 🔥</h2>
+<br /><br />
+<h1 align="center">🔥 GitHub Summary 🔥</h1>
 <br>
 <a href="#" title="Most Used Languages">
    <img  align="center" width="850" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhtrung0110&theme=radical" />
