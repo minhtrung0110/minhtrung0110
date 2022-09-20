@@ -31,7 +31,9 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>  
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="54" height="54"/> </a>  
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
+<a href="https://eslint.org/" target="_blank"> <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="php" width="89" height="42"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" width="98" height="42"/> </a> 
 </p>
 
 
@@ -47,3 +49,35 @@
 
 </p>
 
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="Github stats">
+    <img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=minhtrung0110&show_icons=true&theme=dracula" />
+  </a>
+  <a href="#" title="Most Used Languages">
+    <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtrung0110&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb" />
+  </a>
+<br /><br />
+<br/><br />
+<br/><br />
+<br /><br />
+<h2 align="center">🔥 GitHub Summary 🔥</h2>
+<br>
+<a href="#" title="Most Used Languages">
+   <img  align="center" width="850" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhtrung0110&theme=radical" />
+</a>
+<br /><br />
+<a href="#" title="Most Used Languages">
+<img  align="center" width="850" 
+src="https://activity-graph.herokuapp.com/graph?username=minhtrung0110&bg_color=020203&color=1ef621&line=ff0f9b&point=430fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+</div>
+
+
+
+
+<!-- Custom github Pages -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github-profile-summary-cards.vercel.app/demo.html -->
+<!-- https://ashutosh00710.github.io/github-readme-activity-graph/ -->
