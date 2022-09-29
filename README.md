@@ -82,7 +82,6 @@ src="https://activity-graph.herokuapp.com/graph?username=minhtrung0110&bg_color=
 
 
 
-
 <!-- Custom github Pages -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
