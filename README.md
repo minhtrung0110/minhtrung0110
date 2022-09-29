@@ -77,8 +77,8 @@
 <img  align="center" width="850" 
 src="https://activity-graph.herokuapp.com/graph?username=minhtrung0110&bg_color=020203&color=1ef621&line=ff0f9b&point=430fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 <br /><br />
-## Sanke Contribution 
-![snake](https://raw.githubusercontent.com/minhtrung0110/minhtrung0110/output/github-contribution-grid-snake.svg)
+
+![snake](https://raw.githubusercontent.com/minhtrung0110/minhtrung0110/output/github-contribution-grid-snake.gif)
 
 
 
