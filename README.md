@@ -1,6 +1,6 @@
 
 <!-- minhtrungdev -->
-<a href="#" target="_blank">
+<a href="https://minhtrung.site" target="_blank">
   <img src="svg/minhtrungdev.svg" width="1200" alt="minhtrungdev-official" />
 </a>
 
