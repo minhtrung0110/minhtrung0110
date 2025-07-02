@@ -6,6 +6,7 @@
 
 - 📫 How to reach me **minhtrung4367@gmail.com**
 
+
 ## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></a>
 <!--<p align="left">
 <a href="https://www.instagram.com/dh.baotrung/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d.h.baotrung" height="30" width="40" /></a>
@@ -52,6 +53,11 @@
 
 ## 🔥 GitHub Stats 🔥
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=minhtrung0110">
+  <img src="https://shields.io/github/stars/minhtrung0110">
+  <img src="https://img.shields.io/github/followers/minhtrung0110">
+</p>
 <br>
 <div align=center>
   <a href="#" title="Github stats">
