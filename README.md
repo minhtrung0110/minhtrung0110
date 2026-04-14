@@ -88,7 +88,12 @@
   <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Stitch" />
   <img src="https://img.shields.io/badge/Registry-0052CC?style=for-the-badge&logo=docker&logoColor=white" alt="Registry" />
 </p>
-
+<a href="https://verify.skilljar.com/c/fukxybxwswgw" target="_blank" rel="noopener">
+  <img 
+    src="https://img.shields.io/badge/Claude%20Code%20in%20Action-D97757?style=for-the-badge&logo=claude&logoColor=white" 
+    alt="Claude Code in Action" 
+  />
+</a>
 <br/>
 
 ## 📈 GitHub Stats
