@@ -37,15 +37,28 @@
 ### Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,vite,tailwind,bootstrap,sass,framer&perline=15" alt="Frontend Tech" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,vite,tailwind,bootstrap,sass,framer,pinia,redux,graphql,storybook,jest&perline=15" alt="Frontend Tech" />
   </a>
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=Greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Zustand-262626?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Redux%20Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white" alt="Redux Saga" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/SSO-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="SSO" />
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
+</p>
 
-### Backend & Database
+### Backend & Core Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mysql,mongo,prisma&perline=15" alt="Backend & Database" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mysql,mongo,prisma,electron,php,java,spring&perline=15" alt="Backend & Database" />
   </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script" />
 </p>
 
 ### DevOps & Tools
@@ -55,19 +68,27 @@
   </a>
 </p>
 
-<br/>
-
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-| ------- | ---------- | ----------- |
-| 🛡️ **Admin CMS (Fullstack)** | `Vue 3`, `NestJS`, `PostgreSQL`, `Prisma`, `Docker`, `Socket.IO` | Production-ready admin dashboard with real-time orders, RBAC, billing, and hierarchical data structure. |
-| ✈️ **OTA Booking Platforms** | `Next.js`, `Tailwind`, `Zustand`, `i18n`, `SWR` | Large-scale OTA web applications (flights, hotels, tours) with SEO-safe URLs, SSR/ISR, and complex booking UX. |
-| 💆 **Hans Spa** | `Next.js 16`, `TailwindCSS`, `shadcn-ui`, `next-intl` | Site built end-to-end focusing on SEO, perfect Core Web Vitals, and localization. |
+### AI & Agents
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-5C5CFF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Agents%20Skills-FF6F00?style=for-the-badge&logo=smartthings&logoColor=white" alt="Agents Skills" />
+  <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Stitch" />
+  <img src="https://img.shields.io/badge/Registry-0052CC?style=for-the-badge&logo=docker&logoColor=white" alt="Registry" />
+</p>
 
 <br/>
 
 ## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=minhtrung0110&theme=radical&margin-w=15&no-frame=true&no-bg=true" alt="Trophy" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minhtrung0110&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -77,7 +98,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtrung0110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhtrung0110&theme=radical" alt="Profile Details" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtrung0110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
